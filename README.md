@@ -197,8 +197,12 @@
 <h2 align="center">📊 GitHub Analytics & Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=shirkemitali62&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shirkemitali62&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444" width="100%" style="max-width: 350px;" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=shirkemitali62&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shirkemitali62&layout=compact&langs_count=6&hide=jupyter%20notebook&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444" height="170" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=shirkemitali62&theme=blood&background=0a0a0a&border=ef4444&ring=ef4444&fire=ef4444&currStreakLabel=ef4444" height="170" alt="GitHub Streak" />
 </p>
 
 <p align="center">
